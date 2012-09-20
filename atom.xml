@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[饭都爱]]></title>
+  <link href="http://caryl.github.com/atom.xml" rel="self"/>
+  <link href="http://caryl.github.com/"/>
+  <updated>2012-09-21T00:08:14+08:00</updated>
+  <id>http://caryl.github.com/</id>
+  <author>
+    <name><![CDATA[Caryl Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
